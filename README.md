@@ -1,4 +1,7 @@
 # Unity-Vibrator
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f70a74f2ca5840e6b6e923012fe74d47)](https://app.codacy.com/manual/Comp3interactive/Unity-Vibrator?utm_source=github.com&utm_medium=referral&utm_content=Comp3interactive/Unity-Vibrator&utm_campaign=Badge_Grade_Dashboard)
+
 Performs custom Vibrate functions on an Android device  and standard vibrations on iOS
 
 <B>Overview</B></br>
